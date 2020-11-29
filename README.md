@@ -1,2 +1,2 @@
-# Figurebed1
+# Figurebed
 belong te take picture
